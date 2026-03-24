@@ -1,4 +1,4 @@
-import { motion } from "motion/react";
+import { motion } from "framer-motion";
 import { UniversityProfileDashboard } from "./university-profile-dashboard";
 
 export function DashboardGrid() {
